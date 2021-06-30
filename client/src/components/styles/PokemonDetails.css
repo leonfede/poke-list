@@ -1,0 +1,46 @@
+.container {
+  height: 60%;
+  width: 60%;
+  background-color: white;
+  position: absolute;
+  top: 12%;
+  left: 20%;
+  border: 3px solid black;
+  border-radius: 25px;
+}
+
+.name {
+  position: relative;
+  top: -2%;
+  left: 4%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.imgContainer {
+  position: relative;
+  bottom: 45%;
+  left: 60%;
+  max-width: 256px;
+  width: 45%;
+  height: 256px;
+}
+
+.pokeImage {
+  width: 100%;
+  border: 2px solid black;
+  border-radius: 75px;
+}
+
+.pokeTypesContainer {
+  position: relative;
+  top: -60%;
+  left: 5%
+}
+
+.pokeTypee {
+  position: relative;
+  top: 50%;
+}

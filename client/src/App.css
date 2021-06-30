@@ -1,0 +1,9 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-attachment: fixed;
+  background-image: url(./assets/site_background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}

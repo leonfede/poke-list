@@ -1,0 +1,25 @@
+.createForm {
+  position: relative;
+  left: 20%;
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 25px;
+  padding: 5px 10px 15px 20px;
+  margin: 96px 96px 45px 35px;
+  width: 45%;
+}
+
+input[type="number"] {
+  width: 40px;
+  margin: 2px 0px 2px 0px;
+}
+
+select {
+  width: 96px;
+}
+
+.createButton {
+  position: relative;
+  left: 390px;
+  bottom: 25px;
+}

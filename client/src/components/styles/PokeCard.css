@@ -1,0 +1,71 @@
+.pokeCard {
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+}
+
+.imageContainer {
+  height: 96px;
+  width: 96px;
+  position: relative;
+  top: -16px;
+  left: 8px;
+}
+
+.pokeImg {
+  height: 100%;
+  width: 100%;
+}
+
+.pokeName {
+  position: relative;
+  bottom: -120px;
+  left: 16px;
+  font-size: 24dp;
+  font-weight: bold;
+}
+
+.typesContainer {
+  width: 80px;
+  height: 48px;
+  border-radius: 25px;
+  position: relative;
+  top: -119px;
+  right: -117px;
+}
+
+.pokeType {
+  text-align: center;
+}
+
+.detailsLink {
+  position: relative;
+  top: -64px;
+  left: 166px;
+}
+
+.material-icons-sharp {
+  color: black;
+}
+
+.detailsLink:hover .material-icons-sharp {
+  color: rgba(249, 51, 24, 1);
+}
+
+.deleteButton:hover .material-icons-sharp {
+  color: rgba(249, 51, 24, 1);
+}
+
+.deleteButton {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  top: -92px;
+  left: 140px;
+}
+
+.deleteButton:hover {
+  cursor: pointer;
+}
